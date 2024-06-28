@@ -1,0 +1,3 @@
+# Como indicamos que un fichero no se tenga en cuenta en git
+#Por ejemplo, si tenemos un fichero .DS_Store y queremos ignorarlo lo incorporamos como **/.DS_Store
+**/.DS_Store
